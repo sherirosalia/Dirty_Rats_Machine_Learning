@@ -12,8 +12,8 @@ The Yelp data, JSON  and CSV files are produced from python scripts.
 Folder named "python" houses scripts which access the YELP API, merge and clean data.
 
 ## Frameworks
-Python
-Python Pandas
+- Python
+- Python Pandas
 
 ## Deployment
 Requires a Yelp developer API key
@@ -22,7 +22,7 @@ Files: app.py and merge.py clean, join and convert to machine learning format.
 The file basic.py is a backup of app.py and does not remove duplicate entries.
 
 ## Status
-In progress. So
+The machine learning is still in preparation phases, however the data is cleaned up.
 
 
 
