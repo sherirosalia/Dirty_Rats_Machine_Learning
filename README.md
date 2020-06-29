@@ -7,7 +7,7 @@ health code and demographic data to evaluate potential relationships between qua
 
 ## File Structure
 JSON and CSV files are in 'csv_files' directory. File paths may need to be adjusted accordingly.
-Health code violation data came from this repository: <a href="https://github.com/mcarter-00/Rats-in-the-Restaurants> Rats in the Restaurants</a>
+Health code violation data came from this repository: <a href="https://github.com/mcarter-00/Rats-in-the-Restaurants"> Rats-in-the-Restaurants </a>
 The Yelp data, JSON  and CSV files are produced from python scripts.
 Folder named "python" houses scripts which access the YELP API, merge and clean data.
 
