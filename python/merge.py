@@ -1,5 +1,7 @@
 import pandas as pd
 
+
+# This is the sequel to app.py ( the file after this is merge.py)
 #violations csv
 v=pd.read_csv('csv_files/restaurants.csv')
 print(v.head())
@@ -25,7 +27,8 @@ print(nc)
 # unique restaurants
 ur=r[r['n_name'].isin(nc)]
 print(ur.head())
-
+ur.to_csv('csv_files/rest_ml_clean.csv', index=False)
+exit()
 
 # r_u.to_csv('csv_files/r_u.csv')
 

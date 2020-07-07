@@ -3,7 +3,7 @@ import csv
 import pandas as pd 
 import pprint
 
-
+#this is the precursor to app.py
 with open('notebooks/data_file.json') as f:
   data = json.load(f)
   print(data[0])
