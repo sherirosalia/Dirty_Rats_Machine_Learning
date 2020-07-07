@@ -1,2 +1,2 @@
-ykey="1WNxtq-fHIhVNXRLrzEC8AXFqMdAwFnvrkN9SGt1dESZMH8pWKITKLkCu7lGn-WAMmEUlxgbn9prLWIsEGFonwQgCVLMEICX_PS8K0JGDP0VTeTeSYbywQT6nNBnXnYx"
-yelp_api_key= "1WNxtq-fHIhVNXRLrzEC8AXFqMdAwFnvrkN9SGt1dESZMH8pWKITKLkCu7lGn-WAMmEUlxgbn9prLWIsEGFonwQgCVLMEICX_PS8K0JGDP0VTeTeSYbywQT6nNBnXnYx"
+ykey="your api here"
+yelp_api_key= "Your API here"
