@@ -42,7 +42,8 @@ Important Features
 Roc Curve
 ![Roc Probabilities Curve](images/roc_probabilities_curve.png)
 
-
+Random Forest
+![Random Forest](images/r_f.png)
 
 
 
