@@ -10,10 +10,10 @@ Can machine learning and data analysis identify "bad actors" in the restaurants 
 - Data can be easily adapted towards analysis of a variety of factors. We happened to focus on rodent violations here.
 
 ## File Structure
-JSON and CSV files are in 'csv_files' directory. File paths may need to be adjusted according to environment.
-Health code violation data came from this repository: <a href="https://github.com/mcarter-00/Rats-in-the-Restaurants"> Rats-in-the-Restaurants </a>
-Folder named "python" contains all scripts.
-Images folder holds visualizations including random forest tree.
+- JSON and CSV files are in 'csv_files' directory. File paths may need to be adjusted according to environment.
+- Health code violation data came from this repository: <a href="https://github.com/mcarter-00/Rats-in-the-Restaurants"> Rats-in-the-Restaurants. </a>
+- Folder named "python" contains all scripts.
+- Images folder holds visualizations including random forest tree.
 
 ## Frameworks
 - Python
