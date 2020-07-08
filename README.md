@@ -39,6 +39,9 @@ It seems that there is about a 90% success rate in identifying restaurants likel
 Important Features
 ![Image of Important Features](images/impt_feat.png)
 
+Roc Curve
+![Roc Probabilities Curve](images/roc_probabilities_curve.png)
+
 
 
 
